@@ -1,0 +1,9 @@
+﻿<Application x:Class="PartnersApp.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:PartnersApp"
+             StartupUri="Partners.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
